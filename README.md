@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+L’application web est réservée à la Direction Médicale (administrateurs).
+Elle permet de :
+
+Gérer les patients (consulter, bloquer, modifier, supprimer, imprimer la liste).
+
+Gérer les médecins (ajouter, modifier, supprimer, voir leur statut).
+
+Gérer les ambulances (ajout, modification, suppression, suivi disponible/en mission).
+
+Visualiser et suivre toutes les urgences en cours et l’historique détaillé.
+
+Accéder à un tableau de bord avec des statistiques (nombre d’urgences, ressources, etc.).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
